@@ -1,0 +1,5 @@
+net stop OracleOraDB19Home1TNSListener
+net stop OracleOraDB19Home1MTSRecoveryService
+net stop OracleServiceORCL
+net stop OracleVssWriterORCL
+isqlplusctl stop

@@ -1,0 +1,5 @@
+net start OracleOraDB19Home1TNSListener
+net start OracleOraDB19Home1MTSRecoveryService
+net start OracleServiceORCL
+net start OracleVssWriterORCL
+isqlplusctl start
