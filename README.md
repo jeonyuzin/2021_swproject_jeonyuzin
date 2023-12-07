@@ -10,7 +10,7 @@ Discord와 같은 그룹 구성 시스템을 지원하고
 <img src="https://github.com/jeonyuzin/2021_swproject_jeonyuzin/blob/main/SW%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/before.png">
 
 프로젝트 AFTER
-<img "https://github.com/jeonyuzin/2021_swproject_jeonyuzin/blob/main/SW%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/after.png">
+<img src="https://github.com/jeonyuzin/2021_swproject_jeonyuzin/blob/main/SW%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/after.png">
 
 프로젝트 업무
 
